@@ -1,6 +1,6 @@
-# 🏋️‍♂️ Fitness Tracker App 📱
+# 🏋️‍♂️ QuantumFlow 📱
 
-Welcome to the Fitness Tracker App! This app is your perfect companion for recording and tracking your workouts. Whether you're into running 🏃‍♂️, walking 🚶‍♀️, or cycling 🚴‍♂️, we've got you covered! Track your progress, view detailed statistics, and set daily goals to stay motivated. 🤟 In every way possible. Made with 🫰 by cool hango, arnab ghosh and gregory tay.
+Welcome to QuantumFlow. The perfect companion for recording and tracking your workouts. Whether you're into running 🏃‍♂️, walking 🚶‍♀️, or cycling 🚴‍♂️, we've got you covered! Track your progress, view detailed statistics, and set daily goals to stay motivated. 🤟 In every way possible. Made with 🫰 by cool hango, arnab ghosh and gregory tay.
 
 <img width="854" alt="Screenshot 2024-09-13 at 9 48 15 PM" src="https://github.com/user-attachments/assets/25a1e92a-0030-4b24-8645-e0f29b4bbb06">
 
@@ -27,7 +27,7 @@ Welcome to the Fitness Tracker App! This app is your perfect companion for recor
 
 ## 🚀 How to Use the App
 
-1. **Open the Project:** Navigate to the `Fitness.xcodeproj` file in Xcode 🖥️ and build the app on a simulator or physical device 📱.
+1. **Open the Project:** Navigate to the `QuantumFlow-Beta.xcodeproj` file in Xcode 🖥️ and build the app on a simulator or physical device 📱.
 2. **Grant Permissions:** Allow access to location and motion data for accurate workout tracking.
 3. **Simulate Workouts (Simulator Users):** Go to `Features` menu → `Location` → Choose activity type (City Run, City Bicycle Ride).
 
@@ -79,6 +79,6 @@ Welcome to the Fitness Tracker App! This app is your perfect companion for recor
 - Please refer to the Terms and Conditions for detailed information about using the App, user responsibilities, and legal aspects: 
 
 ## License
-- The Fitness Tracker App is licensed under the MIT License. For more information, see the LICENSE file included in the project.
+- QuantumFlow is licensed under the MIT License. For more information, see the LICENSE file included in the project.
 
 <img width="834" alt="Screenshot 2024-09-13 at 9 49 28 PM" src="https://github.com/user-attachments/assets/eebb661b-037d-45b2-8d7b-d568fdfb7e7b">
