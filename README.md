@@ -75,4 +75,10 @@ Welcome to the Fitness Tracker App! This app is your perfect companion for recor
 - **Swift Charts:** Visualizes fitness data with graphs 📈.
 - **Combine:** Manages real-time data flow 📡.
 
+## 📑 Terms and Conditions
+- Please refer to the Terms and Conditions for detailed information about using the App, user responsibilities, and legal aspects: 
+
+## License
+- The Fitness Tracker App is licensed under the MIT License. For more information, see the LICENSE file included in the project.
+
 <img width="834" alt="Screenshot 2024-09-13 at 9 49 28 PM" src="https://github.com/user-attachments/assets/eebb661b-037d-45b2-8d7b-d568fdfb7e7b">
