@@ -1,6 +1,6 @@
 # 🏋️‍♂️ Fitness Tracker App 📱
 
-Welcome to the Fitness Tracker App! This app is your perfect companion for recording and tracking your workouts. Whether you're into running 🏃‍♂️, walking 🚶‍♀️, or cycling 🚴‍♂️, we've got you covered! Track your progress, view detailed statistics, and set daily goals to stay motivated.
+Welcome to the Fitness Tracker App! This app is your perfect companion for recording and tracking your workouts. Whether you're into running 🏃‍♂️, walking 🚶‍♀️, or cycling 🚴‍♂️, we've got you covered! Track your progress, view detailed statistics, and set daily goals to stay motivated. 🤟 In every way possible. Made with 🫰 by cool hango, arnab ghosh and gregory tay.
 
 <img width="854" alt="Screenshot 2024-09-13 at 9 48 15 PM" src="https://github.com/user-attachments/assets/25a1e92a-0030-4b24-8645-e0f29b4bbb06">
 
