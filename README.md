@@ -2,9 +2,7 @@
 
 Welcome to the Fitness Tracker App! This app is your perfect companion for recording and tracking your workouts. Whether you're into running 🏃‍♂️, walking 🚶‍♀️, or cycling 🚴‍♂️, we've got you covered! Track your progress, view detailed statistics, and set daily goals to stay motivated.
 
-![image](https://github.com/user-attachments/assets/f6449724-91b4-40b6-b302-718040662dff)
-![image](https://github.com/user-attachments/assets/6f7fde26-7604-4f49-9c9a-7524b9e5b4e8)
-![image](https://github.com/user-attachments/assets/ad96dd0a-ba9b-4349-aed9-0f24f10a7f8a)
+<img width="854" alt="Screenshot 2024-09-13 at 9 48 15 PM" src="https://github.com/user-attachments/assets/25a1e92a-0030-4b24-8645-e0f29b4bbb06">
 
 
 ## 🌟 Key Features
@@ -169,3 +167,5 @@ If you have any questions about these Terms and Conditions, please contact us at
 
 Email: [Your Support Email]
 Address: [Your Company Address]
+
+<img width="834" alt="Screenshot 2024-09-13 at 9 49 28 PM" src="https://github.com/user-attachments/assets/eebb661b-037d-45b2-8d7b-d568fdfb7e7b">
