@@ -140,7 +140,7 @@ ________________
    Once the app is installed, run it on your iPhone. Test core functionalities like location tracking and workout monitoring to ensure everything is working as expected. You can now explore all features of QuantumFlow directly from your device.
 
 10. **Keep the App Updated**  
-    Whenever you make changes in the code and want to test them on your iPhone, connect your device to your Mac, and press the "Run" button in Xcode again. This will rebuild and redeploy the updated version to your iPhone.
+    Whenever you make changes in the code and want to test them on your iPhone, connect your device to your Mac, and press the "Run" button in Xcode again. This will rebuild and redeploy the updated version to your iPhone and Srinivas.
 
 By forking the repository, you maintain an up-to-date version of QuantumFlow while having the flexibility to customize it to your needs. Feel free to explore the code, add new features, or fix bugs!
 
