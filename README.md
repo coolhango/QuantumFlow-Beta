@@ -79,12 +79,12 @@ ________________
 ## 🚀 Installation Instructions (Forking the Repo)
 
 1. **Fork the Repository**:  
-   Head over to the [QuantumFlow-Beta GitHub repository](https://github.com/cool-hango/QuantumFlow-Beta) and click on the "Fork" button in the upper right corner of the page. This will create a personal copy of the repository under your GitHub account.
+   Head over to the [QuantumFlow-Beta GitHub repository](https://github.com/coolhango/QuantumFlow-Beta/edit/main/README.md) and click on the "Fork" button in the upper right corner of the page. This will create a personal copy of the repository under your GitHub account.
 
 2. **Clone Your Fork**:  
    After forking the repository, clone it to your local machine:
    ```bash
-   git clone https://github.com/your-username/QuantumFlow-Beta.git
+   git clone https://github.com/coolhango/QuantumFlow-Beta.git
    cd QuantumFlow-Beta
    ```
 
