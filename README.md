@@ -75,7 +75,8 @@ Welcome to QuantumFlow. The perfect companion for recording and tracking your wo
 - **Swift Charts:** Visualizes fitness data with graphs 📈.
 - **Combine:** Manages real-time data flow 📡.
 
-  ### 🚀 Installation Instructions (Forking the Repo)
+________________
+## 🚀 Installation Instructions (Forking the Repo)
 
 1. **Fork the Repository**:  
    Head over to the [QuantumFlow-Beta GitHub repository](https://github.com/cool-hango/QuantumFlow-Beta) and click on the "Fork" button in the upper right corner of the page. This will create a personal copy of the repository under your GitHub account.
@@ -109,7 +110,7 @@ Welcome to QuantumFlow. The perfect companion for recording and tracking your wo
 7. **Create a Pull Request (Optional)**:  
    If you wish to contribute to the main repository, navigate to your fork on GitHub and click "New Pull Request". This will allow your changes to be reviewed and potentially merged into the main QuantumFlow-Beta repo.
 
-### 📱 Setup Instructions for iPhone (iOS) using Xcode
+## 📱 Setup Instructions for iPhone (iOS) using Xcode
 
 1. **Connect Your iPhone to Your Mac**  
    Plug your iPhone into your Mac using a USB cable. Ensure that your iPhone is unlocked and trusted by your Mac. If prompted, select "Trust This Computer" on your iPhone.
