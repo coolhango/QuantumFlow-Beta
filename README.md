@@ -75,6 +75,76 @@ Welcome to QuantumFlow. The perfect companion for recording and tracking your wo
 - **Swift Charts:** Visualizes fitness data with graphs 📈.
 - **Combine:** Manages real-time data flow 📡.
 
+  ### 🚀 Installation Instructions (Forking the Repo)
+
+1. **Fork the Repository**:  
+   Head over to the [QuantumFlow-Beta GitHub repository](https://github.com/cool-hango/QuantumFlow-Beta) and click on the "Fork" button in the upper right corner of the page. This will create a personal copy of the repository under your GitHub account.
+
+2. **Clone Your Fork**:  
+   After forking the repository, clone it to your local machine:
+   ```bash
+   git clone https://github.com/your-username/QuantumFlow-Beta.git
+   cd QuantumFlow-Beta
+   ```
+
+3. **Install Dependencies**:  
+   Open the project in Xcode and install the necessary dependencies:
+   - If you are using any package managers like CocoaPods, make sure to run `pod install`.
+   - Alternatively, if you're using Swift Package Manager, dependencies will automatically install when you open the project.
+
+4. **Build and Run**:  
+   Open the `QuantumFlow-Beta.xcodeproj` file in Xcode 🖥️. Select a physical device or simulator and hit the "Run" button ▶️ to build and launch the app.
+
+5. **Set Up Permissions**:  
+   Make sure to grant the app permissions to access your location and motion data when prompted. These are essential for tracking workouts accurately.
+
+6. **Push Changes (Optional)**:  
+   After making modifications, you can push changes back to your forked repository:
+   ```bash
+   git add .
+   git commit -m "Your commit message"
+   git push origin main
+   ```
+
+7. **Create a Pull Request (Optional)**:  
+   If you wish to contribute to the main repository, navigate to your fork on GitHub and click "New Pull Request". This will allow your changes to be reviewed and potentially merged into the main QuantumFlow-Beta repo.
+
+### 📱 Setup Instructions for iPhone (iOS) using Xcode
+
+1. **Connect Your iPhone to Your Mac**  
+   Plug your iPhone into your Mac using a USB cable. Ensure that your iPhone is unlocked and trusted by your Mac. If prompted, select "Trust This Computer" on your iPhone.
+
+2. **Open QuantumFlow-Beta in Xcode**  
+   Navigate to the `QuantumFlow-Beta.xcodeproj` file in Finder, then open it in Xcode. Ensure that the latest version of Xcode is installed to avoid compatibility issues.
+
+3. **Select Your iPhone as the Target Device**  
+   In Xcode, go to the top toolbar and click on the device selection dropdown. From the list, select your iPhone as the build target. If your iPhone doesn't appear, ensure it’s properly connected and recognized by Xcode.
+
+4. **Set Team and Signing**  
+   Go to the "Signing & Capabilities" tab in the Xcode project settings. Under "Team," choose your Apple ID or development team. This is necessary to sign the app for deployment to your iPhone. If you don’t have a development team set up, Xcode will guide you through the process.
+
+5. **Allow Provisioning Profile Setup**  
+   Xcode will automatically generate a provisioning profile for your app. Ensure that there are no warnings under "Signing & Capabilities." If any issues arise, click "Fix Issue" to let Xcode resolve them automatically.
+
+6. **Download App Caches and Dependencies**  
+   Xcode will download necessary app caches and any associated libraries. This process may take a few moments depending on the size of the dependencies. If the project uses Swift Package Manager, dependencies will be fetched during this step.
+
+7. **Build the App**  
+   Click the "Run" button (▶️) at the top of Xcode to begin building the app for your iPhone. Xcode will compile the app and deploy it to your device. Ensure that there are no build errors in the log section. If any errors occur, fix them before proceeding.
+
+8. **Grant App Permissions on iPhone**  
+   After the app is installed, open QuantumFlow on your iPhone. The app will request permissions for location and motion data. Tap "Allow" to grant these permissions, as they are crucial for tracking workouts and motion activities.
+
+9. **Run the App and Test Features**  
+   Once the app is installed, run it on your iPhone. Test core functionalities like location tracking and workout monitoring to ensure everything is working as expected. You can now explore all features of QuantumFlow directly from your device.
+
+10. **Keep the App Updated**  
+    Whenever you make changes in the code and want to test them on your iPhone, connect your device to your Mac, and press the "Run" button in Xcode again. This will rebuild and redeploy the updated version to your iPhone.
+
+By forking the repository, you maintain an up-to-date version of QuantumFlow while having the flexibility to customize it to your needs. Feel free to explore the code, add new features, or fix bugs!
+
+________________
+
 ## 📑 Terms and Conditions
 - Please refer to the Terms and Conditions for detailed information about using the App, user responsibilities, and legal aspects: 
 
